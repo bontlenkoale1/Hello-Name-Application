@@ -39,7 +39,7 @@ Hello-Name-App │── 📄 index.html # Main HTML file │── 📄 style.c
 
 ## 🎨 UI Preview
 
-![UI Screenshot][Screenshot 2025-03-11 153319](https://github.com/user-attachments/assets/20cc3bba-34fa-4ced-a22d-25d033c027e0)![Screenshot 2025-03-11 152639](https://github.com/user-attachments/assets/9e7fcc3f-74bf-4c37-b521-8c3fa8d039ba)
+![UI Screenshot](![Screenshot 2025-03-11 153319](https://github.com/user-attachments/assets/20cc3bba-34fa-4ced-a22d-25d033c027e0)![Screenshot 2025-03-11 152639](https://github.com/user-attachments/assets/9e7fcc3f-74bf-4c37-b521-8c3fa8d039ba)
 
 
 
